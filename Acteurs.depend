@@ -1,12 +1,6 @@
 # depslib dependency file v1.0
-1557151671 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\main.c
-	<stdio.h>
-	<stdlib.h>
-	<SDL.h>
-	<SDL_image.h>
-	<SDL_ttf.h>
-	<SDL_mixer.h>
-	<stdio.h>
+1558107256 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\main.c
+	"defineform.h"
 
 1550427710 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\sdl\sdl2-2.0.9\i686-w64-mingw32\include\sdl2\sdl.h
 	"SDL_main.h"
@@ -369,4 +363,42 @@
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
+
+1558106421 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\acteur.c
+	"defineform.h"
+
+1558107251 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\file.c
+	"defineform.h"
+
+1558104559 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\defineform.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	"vecteur.h"
+	"acteur.h"
+	"vue.h"
+	"file.h"
+
+1557154898 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\vecteur.h
+	"defineform.h"
+
+1558106257 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\acteur.h
+	"defineform.h"
+
+1558105258 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\file.h
+	"defineform.h"
+
+1557155575 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\vecteur.c
+	"defineform.h"
+
+1558104938 c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\vue.h
+	"defineform.h"
+
+1558106930 source:c:\users\mocky\documents\ludus\ii.deuxième année\projets codeblock\acteurs\vue.c
+	"vue.h"
 

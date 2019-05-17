@@ -52,9 +52,26 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="acteur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="acteur.h" />
+		<Unit filename="defineform.h" />
+		<Unit filename="file.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="vecteur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vecteur.h" />
+		<Unit filename="vue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vue.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
